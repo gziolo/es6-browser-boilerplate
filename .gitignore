@@ -1,0 +1,5 @@
+.idea
+bower_components
+coverage
+node_modules
+dist

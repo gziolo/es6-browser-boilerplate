@@ -1,0 +1,12 @@
+dependencies:
+  - 'devUpdate'
+spec:
+  - 'eslint'
+  - 'karma:continuous'
+build:
+  - 'spec'
+  - 'clean'
+  - 'babel:js'
+  - 'copy:assets'
+default:
+  - 'build'
