@@ -5,6 +5,7 @@ A boilerplate to write JavaScript code in ES6 and run in the browser now using R
 ## Features ##
 - lints code using [ESLint](http://eslint.org/) with [babel-eslint](https://github.com/babel/babel-eslint) parser 
 - allows to write unit tests using [Mocha](http://mochajs.org/), [Chai](http://chaijs.com/) and [Sinon.JS](http://sinonjs.org/) and run them with [Karma](http://karma-runner.github.io/) runner
+- code coverage reports using [isparta](https://github.com/douglasduteil/isparta)
 - [Babel](https://babeljs.io/) transforms ES6 code to ES5 with AMD support using [RequireJS](http://requirejs.org/)
 
 ## Requirements ##
