@@ -15,6 +15,6 @@ describe('Bootstrap', function() {
   });
 
   it('should return test string', () => {
-    (this.bootstrap.test()).should.be.equal('test123');
+    this.bootstrap.test().should.be.equal('test123');
   });
 });
