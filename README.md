@@ -29,8 +29,11 @@ A boilerplate to write JavaScript code in ES6 and run in the browser now using R
 
 - [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
 - [An aggregation of tooling for ES6](https://github.com/addyosmani/es6-tools)
+- [ECMAScript 6 new features overview & comparison](http://es6-features.org/)
+- [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
 
-##### Articles
+#### Articles
+- [Using JavaScript ES6 in practice](http://gziolo.pl/2015/05/13/using-javascript-es6-in-practice/)
 - [Variables and scoping in ECMAScript 6](http://www.2ality.com/2015/02/es6-scoping.html)
 - [Classes in ECMAScript 6](http://www.2ality.com/2015/02/es6-classes-final.html)
 - [ES6 generators in depth](http://www.2ality.com/2015/03/es6-generators.html)
@@ -42,11 +45,13 @@ A boilerplate to write JavaScript code in ES6 and run in the browser now using R
 - [ES6 modules today with Babel (6TO5)](http://es6rocks.com/2014/10/es6-modules-today-with-6to5/)
 - [Lint Like It’s 2015 (babel-eslint)](https://medium.com/@dan_abramov/lint-like-it-s-2015-6987d44c5b48)
 
-##### Books
+
+#### Books
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/)
 - [Exploring ES6: Upgrade to the next version of JavaScript](http://exploringjs.com/)
 - [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
 - [JavaScript Allongé, The "Six" Edition](https://leanpub.com/javascriptallongesix)
+- [Learn JavaScript Isomorphic App Development](https://leanpub.com/learn-javascript-react-nodejs-es6/)
 
 ##### Tools
 - [Traceur](https://github.com/google/traceur-compiler)
