@@ -2,7 +2,7 @@
   "name": "es6-browser-boilerplate",
   "title": "ES6 browser boilerplate",
   "description": "A boilerplate to write JavaScript code in ES6 and run in the browser now using RequireJS",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "homepage": "https://github.com/gziolo/es6-browser-boilerplate",
   "repository": {
     "type": "git",
