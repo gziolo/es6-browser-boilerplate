@@ -67,7 +67,7 @@ A boilerplate to write JavaScript code in ES6 and run in the browser now using R
 - [Grunt](http://gruntjs.com/)
 - [JSHint](http://www.jshint.com/docs/)
 - [Karma](http://karma-runner.github.io/)
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](http://mochajs.org/)
 - [ChaiJS online test suite](http://chaijs.com/api/test/)
 - [Sinon docs](http://sinonjs.org/docs/)
 - [Grunt basics](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
